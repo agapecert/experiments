@@ -11,4 +11,4 @@ Questions: spalacio at purdue edu
 
 
 ## Updates
-* Updating Verifable Computation experiments with libsnark. This will be uploaded on 2022.05.03.
+* Updating Verifable Computation experiments with libsnark. Updated on 2022.05.03.
