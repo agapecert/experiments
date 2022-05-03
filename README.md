@@ -9,3 +9,6 @@ Verifiable Computation, Commitments, FHE, Spark,  Experiments
 
 Questions: spalacio at purdue edu
 
+
+## Updates
+* Updating Verifable Computation experiments with libsnark. This will be uploaded on 2022.05.03.
