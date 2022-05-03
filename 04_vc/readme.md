@@ -7,4 +7,4 @@ The directory structure includes 3 files:
 * matrix_multiplication.tcc
 * vc_result_01.log
 
-T:he .log file contains an example of a run of the matrix_multiplication experiment.
+The .log file contains an example of a run of the matrix_multiplication experiment.
